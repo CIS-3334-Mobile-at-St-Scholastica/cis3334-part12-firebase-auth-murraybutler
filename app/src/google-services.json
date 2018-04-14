@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "677844618063",
-    "firebase_url": "https://cis3334-e8bda.firebaseio.com",
-    "project_id": "cis3334-e8bda",
-    "storage_bucket": "cis3334-e8bda.appspot.com"
+    "project_number": "339458225154",
+    "firebase_url": "https://unit12-b1b02.firebaseio.com",
+    "project_id": "unit12-b1b02",
+    "storage_bucket": "unit12-b1b02.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:677844618063:android:8a263ec549856a8a",
+        "mobilesdk_app_id": "1:339458225154:android:8a263ec549856a8a",
         "android_client_info": {
           "package_name": "css.cis3334.firebaseauthentication"
         }
       },
       "oauth_client": [
         {
-          "client_id": "677844618063-6ae7pviia72sicffkhimhhqi5bk8gig7.apps.googleusercontent.com",
+          "client_id": "339458225154-vllgmfpf8tlaffl50aj2dji3veo1427n.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAvPUiVk15l-ltL7llbYJKquOAhFpN224k"
+          "current_key": "AIzaSyDFa3fEkbCowXPpoTXhTaxnnKkqReadW40"
         }
       ],
       "services": {
